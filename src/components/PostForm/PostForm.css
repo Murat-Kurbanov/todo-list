@@ -1,0 +1,5 @@
+.PostForm input,
+.PostForm textarea {
+    display: block;
+    margin-bottom: 10px;
+}
